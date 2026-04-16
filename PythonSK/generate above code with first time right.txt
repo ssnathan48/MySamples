@@ -1,0 +1,5 @@
+1. The "First-Time-Right" Highlights
+Version Pinning: Use semantic-kernel==1.41.0. Newer or older versions will break the imports.
+The "Unified" Endpoint Fix: Always include api_version="2024-08-01-preview" for Azure gpt-4o-mini compatibility.
+The Encoding Bypass: You must set allow_dangerously_set_content=True in the PromptTemplateConfig. Without this, the system cannot read the chat history to check for the TERMINATE keyword.
+Description Field: Every agent must have a description string, or the AgentGroupChat will throw a ValueError.
