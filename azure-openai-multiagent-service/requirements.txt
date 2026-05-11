@@ -1,0 +1,7 @@
+azure-ai-projects
+azure-identity
+fastapi
+uvicorn
+fastmcp
+pydantic
+python-dotenv

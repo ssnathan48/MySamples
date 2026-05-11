@@ -1,0 +1,5 @@
+{
+  "manager": "Coordinates tasks and provides final summaries.",
+  "researcher": "Searches for technical data and verifies facts.",
+  "writer": "Drafts content based on researcher findings."
+}

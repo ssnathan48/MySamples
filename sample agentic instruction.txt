@@ -1,0 +1,10 @@
+i would like to build a multiagent ai system with 3 simple collaborative agent using azure ai foundary sdk using an azure agentic framework (something is very quick and little code changes) with the implementation of session statemanagement for contextual continuity with inclusion of peristent context /memory context .
+please give me the list of all the installation in required. that is, sdks and libraries and include them in the requirement text whatever appropriate so that when open the solution/folder in the vs code, all these required sdks are installed automatically. it should be contained in requirements.txt
+
+Please include role profiles , guardrail, grounding commands using external json files with instructions for me.
+
+it should be api driven approach. i believe fastapi and fastmcp are standards for tools calling. if you prefer to semantic kernel, please let me know. Please inform me why you are choosing fast api and fastmcp over semantic kernel.  i have already installed azure sdks in my laptop including python, node etc. Please also give me UI to tie to this agentic system
+
+Please make sure all of your instructions for me is based on last azure ai foundary releases (Microsoft foundary now it is called).
+
+ please also give full terraform code to deploy the required resource in azure. i can supply the authentication and the subscription. it should be very simple enough to quickly show demo.
